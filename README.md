@@ -32,11 +32,7 @@
 - Right-click on the Main class and select Run.
 
 ## Usage
-The application allows users to manage their credit card limit and make purchases through a menu-driven interface. Purchases are stored in a list and displayed in ascending order of value when the user decides to exit. If a purchase exceeds the available limit, the system informs the user and denies the transaction. Here’s an example usage:
-	1.	Enter your credit card limit.
-	2.	Input the description and value of a purchase.
-	3.	Continue making purchases or exit the application.
-	4.	On exit, the system displays the list of purchases sorted by value and the remaining credit card balance.
+The application allows users to manage their credit card limit and make purchases through a menu-driven interface. Purchases are stored in a list and displayed in ascending order of value when the user decides to exit. If a purchase exceeds the available limit, the system informs the user and denies the transaction.
 
 ## Features
 - **Set Credit Card Limit**: Define the total credit card limit at the start of the session.
